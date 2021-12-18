@@ -1,6 +1,6 @@
 class GmailForm 
 {
-
+//GLOBAL VARIABLES//
 	String firstName = "Harsha Reddy" ;
 	String lastName = "Poreddy" ;
 	String userName = "harshaammu2016" ;
